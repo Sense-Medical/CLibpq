@@ -1,0 +1,4 @@
+module CLibpq [system] {
+    header "CLibpq.h"
+    link "pq"
+}
